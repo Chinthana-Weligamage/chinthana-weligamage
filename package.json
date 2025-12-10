@@ -2,7 +2,7 @@
   "name": "chinthana-weligamage",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://github.com/Chinthana-Weligamage/chinthana-weligamage",
+  "homepage": "https://chinthana-weligamage.github.io/chinthana-weligamage",
   "type": "module",
   "scripts": {
     "dev": "vite",
